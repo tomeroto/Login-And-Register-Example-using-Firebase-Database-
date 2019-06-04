@@ -10,7 +10,8 @@ This is an example Android Studio Project with Kotlin Language to make Login and
 3. And Run :)
 
 <b>Test APK</b>
-I just uploaded an APK (Not signed), link below:
+I just uploaded an APK (Not signed), link:
+
 https://github.com/tomeroto/Login-And-Register-Example-using-Firebase-Database-/raw/master/test.apk
 
 <b>Note</b>

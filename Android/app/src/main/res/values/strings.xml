@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginTest</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="invalid_login_message">Sorry your email and password do not match.</string>
+    <string name="map_activity_title">Search Map</string>
+    <string name="login_activity_title">Login</string>
+    <string name="register_activity_title">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="register_success">Thank you, your registration is success!</string>
+    <string name="login_now">Login Now</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_map_api_key">AIzaSyDMO3OhoEJiYqmPq1wLvqWRUFB2OAJEkwc</string>
+</resources>

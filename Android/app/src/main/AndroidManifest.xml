@@ -32,17 +32,17 @@
         <activity
                 android:name=".MapsActivity"
                 android:label="@string/map_activity_title">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-
-                <category android:name="android.intent.category.LAUNCHER"/>
-            </intent-filter>
         </activity>
         <activity android:name=".RegisterActivity"
         android:label="@string/register_activity_title">
         </activity>
         <activity android:name=".MainActivity"
         android:label="@string/login_activity_title">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
         </activity>
     </application>
 
